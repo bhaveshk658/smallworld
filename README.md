@@ -1,2 +1,2 @@
-# small-world
+# smallworld
 Generating Small World Combinations
